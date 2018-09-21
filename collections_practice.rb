@@ -39,5 +39,5 @@ def sum_array (array)
 end
 
 def add_a (array)
-
+ [1,2].each_with_index.collect {|element, index|}
 end
